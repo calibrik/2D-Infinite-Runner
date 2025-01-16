@@ -1,0 +1,2121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<section>
+  <endSectionTriggerPosX>100.5</endSectionTriggerPosX>
+  <spikes>
+    <spike>
+      <pos x="33.44241" y="8.339172" />
+      <rotZ>0</rotZ>
+      <isRotating>False</isRotating>
+      <rotSpeed>0</rotSpeed>
+    </spike>
+    <spike>
+      <pos x="26.61331" y="-0.4" />
+      <rotZ>0</rotZ>
+      <isRotating>False</isRotating>
+      <rotSpeed>0</rotSpeed>
+    </spike>
+    <spike>
+      <pos x="26.61331" y="8.339172" />
+      <rotZ>0</rotZ>
+      <isRotating>False</isRotating>
+      <rotSpeed>0</rotSpeed>
+    </spike>
+    <spike>
+      <pos x="33.44241" y="-0.4" />
+      <rotZ>0</rotZ>
+      <isRotating>False</isRotating>
+      <rotSpeed>0</rotSpeed>
+    </spike>
+    <spike>
+      <pos x="40.27242" y="8.339172" />
+      <rotZ>0</rotZ>
+      <isRotating>False</isRotating>
+      <rotSpeed>0</rotSpeed>
+    </spike>
+    <spike>
+      <pos x="40.27242" y="-0.4" />
+      <rotZ>0</rotZ>
+      <isRotating>False</isRotating>
+      <rotSpeed>0</rotSpeed>
+    </spike>
+    <spike>
+      <pos x="81.28001" y="-0.4" />
+      <rotZ>0</rotZ>
+      <isRotating>False</isRotating>
+      <rotSpeed>0</rotSpeed>
+    </spike>
+    <spike>
+      <pos x="88.11001" y="8.339172" />
+      <rotZ>0</rotZ>
+      <isRotating>False</isRotating>
+      <rotSpeed>0</rotSpeed>
+    </spike>
+    <spike>
+      <pos x="88.11001" y="-0.4" />
+      <rotZ>0</rotZ>
+      <isRotating>False</isRotating>
+      <rotSpeed>0</rotSpeed>
+    </spike>
+    <spike>
+      <pos x="94.93241" y="-0.4" />
+      <rotZ>0</rotZ>
+      <isRotating>False</isRotating>
+      <rotSpeed>0</rotSpeed>
+    </spike>
+    <spike>
+      <pos x="94.93241" y="8.339172" />
+      <rotZ>0</rotZ>
+      <isRotating>False</isRotating>
+      <rotSpeed>0</rotSpeed>
+    </spike>
+    <spike>
+      <pos x="81.28001" y="8.339172" />
+      <rotZ>0</rotZ>
+      <isRotating>False</isRotating>
+      <rotSpeed>0</rotSpeed>
+    </spike>
+    <spike>
+      <pos x="74.4509" y="-0.4" />
+      <rotZ>0</rotZ>
+      <isRotating>False</isRotating>
+      <rotSpeed>0</rotSpeed>
+    </spike>
+    <spike>
+      <pos x="74.4509" y="8.339172" />
+      <rotZ>0</rotZ>
+      <isRotating>False</isRotating>
+      <rotSpeed>0</rotSpeed>
+    </spike>
+    <spike>
+      <pos x="67.6" y="8.339172" />
+      <rotZ>0</rotZ>
+      <isRotating>False</isRotating>
+      <rotSpeed>0</rotSpeed>
+    </spike>
+    <spike>
+      <pos x="67.6" y="-0.4" />
+      <rotZ>0</rotZ>
+      <isRotating>False</isRotating>
+      <rotSpeed>0</rotSpeed>
+    </spike>
+    <spike>
+      <pos x="60.7776" y="-0.4" />
+      <rotZ>0</rotZ>
+      <isRotating>False</isRotating>
+      <rotSpeed>0</rotSpeed>
+    </spike>
+    <spike>
+      <pos x="60.7776" y="8.339172" />
+      <rotZ>0</rotZ>
+      <isRotating>False</isRotating>
+      <rotSpeed>0</rotSpeed>
+    </spike>
+    <spike>
+      <pos x="53.94759" y="-0.4" />
+      <rotZ>0</rotZ>
+      <isRotating>False</isRotating>
+      <rotSpeed>0</rotSpeed>
+    </spike>
+    <spike>
+      <pos x="53.94759" y="8.339172" />
+      <rotZ>0</rotZ>
+      <isRotating>False</isRotating>
+      <rotSpeed>0</rotSpeed>
+    </spike>
+    <spike>
+      <pos x="47.11849" y="-0.4" />
+      <rotZ>0</rotZ>
+      <isRotating>False</isRotating>
+      <rotSpeed>0</rotSpeed>
+    </spike>
+    <spike>
+      <pos x="47.11849" y="8.339172" />
+      <rotZ>0</rotZ>
+      <isRotating>False</isRotating>
+      <rotSpeed>0</rotSpeed>
+    </spike>
+  </spikes>
+  <coins>
+    <coin>
+      <pos x="27.78415" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="28.50415" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="28.50415" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="27.78783" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="26.35367" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="27.07367" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="27.07367" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="26.35735" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="24.9169" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="25.6369" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="25.6369" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="24.92058" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="27.79564" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="28.51564" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="28.51564" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="27.79933" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="26.36517" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="27.08517" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="27.08517" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="26.36885" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="24.9284" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="25.6484" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="25.6484" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="24.93208" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="34.61325" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="35.33325" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="35.33325" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="34.61693" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="33.18277" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="33.90277" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="33.90277" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="33.18645" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="31.746" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="32.466" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="32.466" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="31.74968" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="31.76118" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="33.18" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="33.9" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="33.9" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="33.18369" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="34.62475" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="35.34475" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="35.34475" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="34.62843" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="33.19427" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="33.91427" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="33.91427" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="33.19795" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="31.7575" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="32.4775" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="32.4775" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="35.32249" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="35.32249" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="34.60618" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="34.60249" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="35.32249" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="35.32249" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="34.60618" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="34.63992" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="35.35992" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="35.35992" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="34.64361" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="31.74323" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="32.46323" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="32.46323" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="31.74691" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="33.19294" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="33.91294" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="33.91294" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="33.19662" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="32.47617" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="32.47617" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="31.75985" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="31.75617" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="33.19294" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="33.91294" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="33.91294" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="33.19662" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="31.75617" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="32.47617" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="32.47617" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="31.75985" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="26.3509" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="27.0709" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="27.0709" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="26.35458" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="24.91413" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="25.63413" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="25.63413" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="24.91781" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="26.36384" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="27.08384" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="27.08384" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="26.36752" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="24.92707" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="25.64707" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="25.64707" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="24.93075" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="24.92707" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="25.64707" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="26.36384" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="27.08384" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="27.08384" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="26.36752" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="25.64707" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="24.93075" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="34.60249" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="27.77339" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="28.49339" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="28.49339" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="27.77707" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="27.77339" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="28.49339" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="28.49339" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="27.77707" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="27.81082" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="28.53082" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="28.53082" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="27.8145" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="41.4325" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="38.57323" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="39.29323" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="39.29323" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="38.57691" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="40.02294" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="40.74294" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="40.74294" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="40.02663" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="38.58617" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="39.30617" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="39.30617" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="38.58985" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="40.02294" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="40.74294" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="40.74294" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="40.02663" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="38.58617" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="39.30617" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="39.30617" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="38.58985" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="42.1525" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="42.1525" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="41.43618" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="41.4325" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="42.1525" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="42.1525" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="41.43618" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="41.46992" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="42.18993" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="42.18993" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="41.47361" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="41.45475" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="42.17475" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="42.17475" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="41.45843" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="38.5875" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="40.02427" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="40.74427" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="40.74427" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="40.02795" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="39.3075" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="39.3075" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="40.01" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="40.73" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="40.73" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="40.01369" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="38.59118" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="41.44325" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="42.16325" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="42.16325" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="41.44693" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="40.01277" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="40.73277" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="40.73277" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="40.01646" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="38.576" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="39.296" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="39.296" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="38.57968" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="75.63324" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="76.35324" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="76.35324" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="75.63692" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="72.76599" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="73.48599" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="73.48599" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="74.20276" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="74.92276" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="74.92276" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="74.20644" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="75.62174" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="76.34174" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="76.34174" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="75.62542" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="74.19126" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="74.91126" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="74.91126" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="74.19495" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="72.75449" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="73.47449" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="73.47449" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="72.75817" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="75.61098" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="72.76967" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="82.45084" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="83.17084" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="83.17084" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="82.45452" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="81.02036" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="81.74036" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="81.74036" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="81.02405" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="79.5836" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="80.30359" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="80.30359" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="79.58727" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="79.59877" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="81.01759" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="81.73759" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="81.73759" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="81.02128" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="82.46234" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="83.18234" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="83.18234" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="82.46602" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="81.03186" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="81.75186" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="81.75186" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="81.03555" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="79.59509" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="80.31509" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="80.31509" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="83.16009" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="83.16009" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="82.44377" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="82.44009" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="83.16009" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="83.16009" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="82.44377" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="82.47752" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="83.19752" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="83.19752" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="82.4812" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="79.58083" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="80.30083" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="80.30083" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="79.5845" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="81.03053" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="81.75053" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="81.75053" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="81.03422" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="80.31377" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="80.31377" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="79.59744" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="81.03053" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="81.75053" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="81.75053" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="81.03422" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="79.59377" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="79.59377" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="80.31377" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="80.31377" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="79.59744" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="74.18849" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="74.90849" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="74.90849" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="74.19218" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="72.75172" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="73.47173" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="73.47173" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="72.7554" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="72.76466" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="74.20143" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="74.92143" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="74.92143" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="74.20512" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="73.48466" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="73.48466" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="72.76834" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="74.20143" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="74.92143" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="74.92143" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="74.20512" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="72.76466" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="73.48466" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="73.48466" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="72.76834" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="82.44009" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="76.33099" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="76.33099" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="75.61467" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="75.61098" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="76.33099" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="76.33099" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="75.61467" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="75.64841" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="76.36842" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="76.36842" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="75.6521" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="96.10324" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="96.82324" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="96.82324" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="96.10692" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="94.67276" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="95.39276" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="95.39276" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="94.67645" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="93.23599" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="93.95599" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="93.95599" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="93.23967" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="93.25117" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="96.11474" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="96.83473" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="96.83473" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="96.11842" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="94.68426" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="95.40426" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="95.40426" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="94.68794" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="93.24749" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="93.96748" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="93.96748" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="94.66999" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="95.38999" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="95.38999" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="94.67368" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="96.81248" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="96.81248" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="96.09617" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="96.09248" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="96.81248" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="96.81248" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="96.09617" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="96.12991" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="93.23322" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="93.95322" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="93.95322" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="93.2369" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="94.68293" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="95.40293" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="95.40293" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="94.68661" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="93.96616" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="93.96616" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="93.24616" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="93.24984" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="94.68293" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="95.40293" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="95.40293" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="94.68661" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="93.24616" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="93.96616" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="93.96616" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="93.24984" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="89.27009" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="86.41083" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="87.13083" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="87.13083" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="86.41451" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="86.42377" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="87.86053" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="88.58054" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="88.58054" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="87.86422" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="87.14377" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="87.14377" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="86.42744" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="87.86053" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="88.58054" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="88.58054" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="87.86422" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="86.42377" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="87.14377" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="87.14377" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="86.42744" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="89.99009" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="89.99009" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="89.27377" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="89.27009" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="89.99009" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="89.99009" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="89.27377" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="89.30752" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="90.02752" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="90.02752" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="89.3112" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="89.29234" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="90.01234" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="90.01234" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="89.29602" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="86.42509" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="87.86186" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="88.58186" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="88.58186" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="87.86555" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="87.1451" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="87.1451" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="87.8476" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="88.5676" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="88.5676" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="87.85128" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="86.42877" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="89.28085" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="90.00084" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="90.00084" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="89.28452" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="87.85036" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="88.57037" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="88.57037" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="87.85405" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="86.4136" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="87.13359" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="87.13359" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="86.41727" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="96.09248" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="96.84991" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="96.84991" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="96.1336" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="68.76007" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="65.90081" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="66.6208" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="66.6208" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="65.90449" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="65.91375" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="67.35052" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="68.07052" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="68.07052" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="67.3542" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="66.63374" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="66.63374" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="65.91743" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="67.35052" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="68.07052" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="68.07052" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="67.3542" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="65.91375" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="66.63374" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="66.63374" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="65.91743" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="69.48007" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="69.48007" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="68.76376" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="68.76007" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="69.48007" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="69.48007" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="68.76376" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="68.7975" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="69.5175" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="69.5175" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="68.80119" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="68.78233" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="69.50232" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="69.50232" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="68.786" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="65.91508" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="67.35184" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="68.07185" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="68.07185" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="67.35553" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="66.63507" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="66.63507" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="67.33758" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="68.05758" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="68.05758" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="67.34126" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="65.91875" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="68.77083" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="69.49083" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="69.49083" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="68.77451" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="67.34035" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="68.06035" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="68.06035" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="67.34403" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="65.90358" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="66.62358" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="66.62358" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="65.90726" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="61.94843" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="62.66843" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="62.66843" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="61.95211" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="60.51795" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="61.23795" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="61.23795" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="60.52164" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="59.08118" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="59.80118" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="59.80118" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="59.08486" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="59.09636" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="60.51518" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="61.23518" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="61.23518" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="60.51887" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="61.95993" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="62.67993" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="62.67993" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="61.96361" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="60.52945" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="61.24945" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="61.24945" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="60.53313" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="59.09268" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="59.81268" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="59.81268" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="62.65768" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="62.65768" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="61.94136" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="61.93768" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="62.65768" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="62.65768" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="61.94136" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="61.97511" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="62.69511" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="62.69511" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="61.97879" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="59.07841" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="59.79841" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="59.79841" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="59.08209" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="60.52812" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="61.24812" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="61.24812" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="60.53181" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="59.81135" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="59.81135" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="59.09503" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="60.52812" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="61.24812" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="61.24812" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="60.53181" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="59.09135" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="59.09135" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="59.81135" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="59.81135" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="59.09503" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="61.93768" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="55.12993" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="55.84993" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="55.84993" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="55.13361" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="52.26268" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="52.98268" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="52.98268" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="53.69945" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="54.41945" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="54.41945" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="53.70313" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="55.11843" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="55.83843" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="55.83843" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="55.12211" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="53.68795" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="54.40795" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="54.40795" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="53.69164" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="52.25118" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="52.97118" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="52.97118" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="52.25486" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="55.10767" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="52.26636" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="53.68518" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="54.40518" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="54.40518" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="53.68887" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="52.24841" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="52.96841" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="52.96841" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="52.25209" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="52.26135" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="53.69812" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="54.41812" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="54.41812" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="53.70181" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="52.98135" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="52.98135" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="52.26503" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="53.69812" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="54.41812" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="54.41812" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="53.70181" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="52.26135" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="52.98135" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="52.98135" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="52.26503" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="55.82767" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="55.82767" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="55.11136" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="55.10767" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="55.82767" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="55.82767" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="55.11136" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="55.1451" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="55.8651" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="55.8651" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="55.14879" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="48.28933" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="49.00933" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="49.00933" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="48.29301" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="46.85885" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="47.57885" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="47.57885" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="46.86253" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="45.42208" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="46.14208" y="0.8049235" />
+    </coin>
+    <coin>
+      <pos x="46.14208" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="45.42576" y="1.52096" />
+    </coin>
+    <coin>
+      <pos x="48.30083" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="49.02082" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="49.02082" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="48.3045" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="46.87035" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="47.59035" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="47.59035" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="46.87403" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="45.43358" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="46.15358" y="2.163808" />
+    </coin>
+    <coin>
+      <pos x="46.15358" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="45.43726" y="2.879845" />
+    </coin>
+    <coin>
+      <pos x="48.27857" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="48.99857" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="48.99857" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="48.28226" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="48.27857" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="48.99857" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="48.99857" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="48.28226" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="48.316" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="49.036" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="49.036" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="48.31969" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="46.85608" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="47.57608" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="47.57608" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="46.85976" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="45.41931" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="46.13931" y="6.413963" />
+    </coin>
+    <coin>
+      <pos x="46.13931" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="45.42299" y="7.13" />
+    </coin>
+    <coin>
+      <pos x="46.86902" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="47.58902" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="47.58902" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="46.8727" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="45.43225" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="46.15225" y="3.563963" />
+    </coin>
+    <coin>
+      <pos x="46.15225" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="45.43593" y="4.28" />
+    </coin>
+    <coin>
+      <pos x="46.86902" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="47.58902" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="47.58902" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="46.8727" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="45.43225" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="46.15225" y="5.00377" />
+    </coin>
+    <coin>
+      <pos x="46.15225" y="5.719807" />
+    </coin>
+    <coin>
+      <pos x="45.43593" y="5.719807" />
+    </coin>
+  </coins>
+  <length>85.58587</length>
+</section>

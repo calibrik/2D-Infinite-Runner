@@ -1,0 +1,279 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<section>
+  <endSectionTriggerPosX>37.83</endSectionTriggerPosX>
+  <spikes>
+    <spike>
+      <pos x="36.2" y="-2.51" />
+      <rotZ>90</rotZ>
+      <isRotating>False</isRotating>
+      <rotSpeed>0</rotSpeed>
+    </spike>
+  </spikes>
+  <coins>
+    <coin>
+      <pos x="21.75964" y="-1.762512" />
+    </coin>
+    <coin>
+      <pos x="22.47964" y="-1.762512" />
+    </coin>
+    <coin>
+      <pos x="22.47964" y="-1.046475" />
+    </coin>
+    <coin>
+      <pos x="21.76332" y="-1.046475" />
+    </coin>
+    <coin>
+      <pos x="20.32286" y="-1.762512" />
+    </coin>
+    <coin>
+      <pos x="21.04286" y="-1.762512" />
+    </coin>
+    <coin>
+      <pos x="21.04286" y="-1.046475" />
+    </coin>
+    <coin>
+      <pos x="20.32655" y="-1.046475" />
+    </coin>
+    <coin>
+      <pos x="19.59139" y="-0.3660027" />
+    </coin>
+    <coin>
+      <pos x="20.31139" y="-0.3660027" />
+    </coin>
+    <coin>
+      <pos x="20.31139" y="0.3500341" />
+    </coin>
+    <coin>
+      <pos x="19.59508" y="0.3500341" />
+    </coin>
+    <coin>
+      <pos x="18.15462" y="-0.3660027" />
+    </coin>
+    <coin>
+      <pos x="18.87462" y="-0.3660027" />
+    </coin>
+    <coin>
+      <pos x="18.87462" y="0.3500341" />
+    </coin>
+    <coin>
+      <pos x="18.1583" y="0.3500341" />
+    </coin>
+    <coin>
+      <pos x="17.42318" y="1.087351" />
+    </coin>
+    <coin>
+      <pos x="18.14318" y="1.087351" />
+    </coin>
+    <coin>
+      <pos x="18.14318" y="1.803388" />
+    </coin>
+    <coin>
+      <pos x="17.42686" y="1.803388" />
+    </coin>
+    <coin>
+      <pos x="15.9864" y="1.087351" />
+    </coin>
+    <coin>
+      <pos x="16.7064" y="1.087351" />
+    </coin>
+    <coin>
+      <pos x="16.7064" y="1.803388" />
+    </coin>
+    <coin>
+      <pos x="15.99009" y="1.803388" />
+    </coin>
+    <coin>
+      <pos x="15.19474" y="2.540679" />
+    </coin>
+    <coin>
+      <pos x="15.91474" y="2.540679" />
+    </coin>
+    <coin>
+      <pos x="15.91474" y="3.256716" />
+    </coin>
+    <coin>
+      <pos x="15.19842" y="3.256716" />
+    </coin>
+    <coin>
+      <pos x="13.75797" y="2.540679" />
+    </coin>
+    <coin>
+      <pos x="14.47797" y="2.540679" />
+    </coin>
+    <coin>
+      <pos x="14.47797" y="3.256716" />
+    </coin>
+    <coin>
+      <pos x="13.76165" y="3.256716" />
+    </coin>
+    <coin>
+      <pos x="-1.504703" y="-1.650647" />
+    </coin>
+    <coin>
+      <pos x="-0.7847033" y="-1.650647" />
+    </coin>
+    <coin>
+      <pos x="-0.7847033" y="-0.9346106" />
+    </coin>
+    <coin>
+      <pos x="-1.501021" y="-0.9346106" />
+    </coin>
+    <coin>
+      <pos x="-2.941474" y="-1.650647" />
+    </coin>
+    <coin>
+      <pos x="-2.221475" y="-1.650647" />
+    </coin>
+    <coin>
+      <pos x="-2.221475" y="-0.9346106" />
+    </coin>
+    <coin>
+      <pos x="-2.937793" y="-0.9346106" />
+    </coin>
+    <coin>
+      <pos x="0.6445911" y="-0.2476366" />
+    </coin>
+    <coin>
+      <pos x="1.36459" y="-0.2476366" />
+    </coin>
+    <coin>
+      <pos x="1.36459" y="0.4684002" />
+    </coin>
+    <coin>
+      <pos x="0.6482723" y="0.4684002" />
+    </coin>
+    <coin>
+      <pos x="-0.7921803" y="-0.2476366" />
+    </coin>
+    <coin>
+      <pos x="-0.07218099" y="-0.2476366" />
+    </coin>
+    <coin>
+      <pos x="-0.07218099" y="0.4684002" />
+    </coin>
+    <coin>
+      <pos x="-0.7884991" y="0.4684002" />
+    </coin>
+    <coin>
+      <pos x="2.793885" y="1.155374" />
+    </coin>
+    <coin>
+      <pos x="3.513884" y="1.155374" />
+    </coin>
+    <coin>
+      <pos x="3.513884" y="1.871411" />
+    </coin>
+    <coin>
+      <pos x="2.797566" y="1.871411" />
+    </coin>
+    <coin>
+      <pos x="1.357113" y="1.155374" />
+    </coin>
+    <coin>
+      <pos x="2.077112" y="1.155374" />
+    </coin>
+    <coin>
+      <pos x="2.077112" y="1.871411" />
+    </coin>
+    <coin>
+      <pos x="1.360794" y="1.871411" />
+    </coin>
+    <coin>
+      <pos x="4.965358" y="2.573963" />
+    </coin>
+    <coin>
+      <pos x="5.685358" y="2.573963" />
+    </coin>
+    <coin>
+      <pos x="5.685358" y="3.29" />
+    </coin>
+    <coin>
+      <pos x="4.969039" y="3.29" />
+    </coin>
+    <coin>
+      <pos x="3.528587" y="2.573963" />
+    </coin>
+    <coin>
+      <pos x="4.248586" y="2.573963" />
+    </coin>
+    <coin>
+      <pos x="4.248586" y="3.29" />
+    </coin>
+    <coin>
+      <pos x="3.532268" y="3.29" />
+    </coin>
+    <coin>
+      <pos x="12.9" y="4.013963" />
+    </coin>
+    <coin>
+      <pos x="13.62" y="4.013963" />
+    </coin>
+    <coin>
+      <pos x="13.62" y="4.73" />
+    </coin>
+    <coin>
+      <pos x="12.90368" y="4.73" />
+    </coin>
+    <coin>
+      <pos x="11.46323" y="4.013963" />
+    </coin>
+    <coin>
+      <pos x="12.18323" y="4.013963" />
+    </coin>
+    <coin>
+      <pos x="12.18323" y="4.73" />
+    </coin>
+    <coin>
+      <pos x="11.46691" y="4.73" />
+    </coin>
+    <coin>
+      <pos x="10.02602" y="4.013963" />
+    </coin>
+    <coin>
+      <pos x="10.74602" y="4.013963" />
+    </coin>
+    <coin>
+      <pos x="10.74602" y="4.73" />
+    </coin>
+    <coin>
+      <pos x="10.0297" y="4.73" />
+    </coin>
+    <coin>
+      <pos x="8.589246" y="4.013963" />
+    </coin>
+    <coin>
+      <pos x="9.309245" y="4.013963" />
+    </coin>
+    <coin>
+      <pos x="9.309245" y="4.73" />
+    </coin>
+    <coin>
+      <pos x="8.592927" y="4.73" />
+    </coin>
+    <coin>
+      <pos x="7.158769" y="4.013963" />
+    </coin>
+    <coin>
+      <pos x="7.878768" y="4.013963" />
+    </coin>
+    <coin>
+      <pos x="7.878768" y="4.73" />
+    </coin>
+    <coin>
+      <pos x="7.16245" y="4.73" />
+    </coin>
+    <coin>
+      <pos x="5.721997" y="4.013963" />
+    </coin>
+    <coin>
+      <pos x="6.441997" y="4.013963" />
+    </coin>
+    <coin>
+      <pos x="6.441997" y="4.73" />
+    </coin>
+    <coin>
+      <pos x="5.725678" y="4.73" />
+    </coin>
+  </coins>
+  <length>50.77148</length>
+</section>
